@@ -6,4 +6,4 @@ Display the file content in terminal.
 Configure your name and your email
 
 
-![Model](1.png)
+![](1.png)
