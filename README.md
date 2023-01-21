@@ -6,5 +6,5 @@ Display the file content in terminal.
 Configure your name and your email
 
 
-![alt text](https://github.com/abdulramiz37/Springbootassignement1/1.png?raw=true)
+![alt text](1.png)
 
