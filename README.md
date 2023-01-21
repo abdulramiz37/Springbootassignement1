@@ -6,5 +6,5 @@ Display the file content in terminal.
 Configure your name and your email
 
 
--![](1%20(1).png)
--![](1%20(2).png)
+-![](1.png)
+-![](2.png)
