@@ -5,6 +5,8 @@ Create a file called first.txt.
 Display the file content in terminal.
 Configure your name and your email
 
+Answer 1 Display the file content in terminal.
+![1](https://user-images.githubusercontent.com/92448045/213859878-2351d5c6-2229-4c14-8045-703a3f0c9afe.jpg)
 
-![alt text](1.png)
+Answer 2
 
